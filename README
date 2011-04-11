@@ -1,8 +1,24 @@
 /***********
+| Πληροφορίες και αρχεία επεισοδίων για το vidcast
+| The Beta Show
+| Περισσότερες πληροφορίες: www.thebetashow.gr
+| Πρωτοδημιουργήθηκε: 06-04-2010
+************/
+Αρχεία επεισοδίων (πηγαίος κώδικας, σχήματα) για το online vidcast με όνομα "The Beta Show". Για περισσότερες πληροφορίες μπορείτε να δείτε την σελίδα μας στο www.thebetashow.gr.
+Για κάθε επεισόδιο θα ανεβάζουμε (στον αντίστοιχο φάκελο) το σχέδιο για το Arduino Project της Εβδομάδας και πηγαίο κώδικα, ή οτιδήποτε άλλο που αναφέρουμε σε κάθε επεισόδιο και νομίζουμε ότι θα είναι χρήσιμο για εσάς.
+Απολαύστε και καλές hack-ριές!
+
+Όλα τα δεδομένα που βρίσκονται σε αυτό τον λογαρισμό (πηγαίος κώδικας, σχέδια, κτλ.) είναι υπο άδεια Creative Commons Αναφορά προέλευσης - Παρόμοια Διανομή 3.0 Μη εισαγόμενο (CC BY-SA 3.0), εκτός και εαν αναφέρεται διαφορετικά
+
+___ENGLISH____
+/***********
 | Episodes Data for vidcast
 | The Beta Show
 | More info: www.thebetashow.gr (in Greek only)
 | First Created: 06-04-2010
 ************/
 Episodes data for online greek vidcast named "The Beta Show". You can find more information in www.thebetashow.gr (in Greek only).
-For each episode we have the schematic for the Arduino project of the week and the source code. Enjoy and happy forking!
+For each episode we have the schematic for the Arduino project of the week and the source code, or anything else we talk about in each episode.
+Enjoy and happy hacking!
+
+All data shared in this account (source code, schematics, etc.) are under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license, expect from those stated different. 
