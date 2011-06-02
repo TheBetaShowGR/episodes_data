@@ -2,6 +2,14 @@
 | Πληροφορίες και αρχεία επεισοδίων για το vidcast
 | The Beta Show
 | Περισσότερες πληροφορίες: www.thebetashow.gr
-| "Πέρασμα" υποτίτλων σε ταινία με μια εντολή
+| Ενσωμάτωση υποτίτλων σε ταινία με μια απλή εντολή για Linux
 ************/
 transcode -i movie_name.avi -x mplayer="-sub movie_subtitles.srt -subcp utf8 -subfont-encoding utf8" -o final_movie_with_subs.avi -y xvid
+
+//Σε περίπτωση που δεν έχετε το transcode ή το mplayer, μπορείτε πολύ απλά να το κατεβάσετε με την εντολή
+
+apt-get install transcode 
+
+//και αντίστοιχα το mplayer
+
+apt-get install mplayer
